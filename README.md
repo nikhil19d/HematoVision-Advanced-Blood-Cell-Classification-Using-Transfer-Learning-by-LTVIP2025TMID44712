@@ -79,8 +79,8 @@ You can run this project easily on your local system. Just follow these steps:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/sathvik-bandla/HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning.git
-cd HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
+git clone https://github.com/pedadasaikrishna/HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning-by-LTVIP2025TMID44712
+cd HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning-by-LTVIP2025TMID44712
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but recommended)
