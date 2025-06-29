@@ -4,13 +4,13 @@
 ### Team Size : 4
 ---
 ### 👨‍💻 Team Members
-Team Leader : Pedada Sai Krishna
+Team Leader : Nikhil Kodukula
 
-Team member : Nakka Bhargavi
+Team member : Jami Jagadeesh Kumar
 
-Team member : Mamidisetty Sivaramateja
+Team member : Kona Rajesh
 
-Team member : Nedunuri Bharath Praveen Kumar
+Team member : Md Abdul Sahil
 
 ---
 # 🧬 HematoVision: Advanced Blood Cell Classification Using Transfer Learning
